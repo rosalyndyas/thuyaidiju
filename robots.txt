@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eacosahsh.geoffcrittenden.com/sitemap.xml
